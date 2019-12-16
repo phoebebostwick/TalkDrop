@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController_Master.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController_Master.cs" Line="98" Column="5" />
+      <File FileName="Assets/Scripts/OnboardingController_Master.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RecordingController_Master.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AudioOnTapController_Master.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadMap_Master.cs" Line="1" Column="1" />
+      <File FileName="Assets/Placenote/Examples/ARKitHitTesting/ARKitHitTesting.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ea3d6329e60b346f2afcebfad2e69a9d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Radio Grotesk
+  fontNames:
+  - Radio Grotesk
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92117e4ad28d247daafedb863d9c35f9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

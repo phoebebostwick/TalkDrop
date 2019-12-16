@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/BetaDemo.unity
+    guid: 502a8d09772c845b5a3ff86277345418
+  - enabled: 0
+    path: Assets/Placenote/Examples/RandomShapes/RandomShapes.unity
+    guid: 1257efda9ace3439485a7e2c7516465e
+  - enabled: 0
+    path: Assets/Scenes/pUnityToSQL.unity
+    guid: ed4879d9c0c7441b0b2e3faebabd49a7
+  - enabled: 0
+    path: Assets/Scenes/M_BetaDemo.unity
+    guid: 7e27ae190bab147b8814a4ac08c9bef4
+  - enabled: 0
+    path: Assets/Scenes/M_BetaDemo.unity
+    guid: 7e27ae190bab147b8814a4ac08c9bef4
+  - enabled: 0
+    path: Assets/Scenes/OLD_M_RecordingDemo.unity
+    guid: d3d8ccd1e02ad4f2b9e4def1fdcc9d5a
+  - enabled: 0
+    path: Assets/Scenes/BL_RecordingDemo.unity
+    guid: 8ddff9cf20dc44ce3b1676343648de7b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/M_E_BetaDemo 1.unity
+    guid: ff3af9e150e7d453897a32e2ba9d36bd
+  - enabled: 0
+    path: Assets/Scenes/E_BetaDemo_Onboarding.unity
+    guid: 26f8b3b6d17974354b626d9c85257452
+  - enabled: 0
+    path: Assets/Scenes/BL_BubbleTesting.unity
+    guid: ce105bf33ec3342d185858f9f233096e
+  - enabled: 0
+    path: Assets/Scenes/BL_E_BetaDemo_Onboarding.unity
+    guid: 89c5d8e27a2e84760a8c9eeb3b3fe4b3
+  - enabled: 0
+    path: Assets/Scenes/P_BetaDemo.unity
+    guid: 8891ddd7df2444c4da1819a2e8eb7ebc
+  - enabled: 0
+    path: Assets/Scenes/BL_E_BetaDemo_Onboarding.unity
+    guid: 89c5d8e27a2e84760a8c9eeb3b3fe4b3
+  - enabled: 0
+    path: Assets/Scenes/E_BetaDemo.unity
+    guid: 6c56382f760fe4fb3a72b3537718c0ba
+  - enabled: 0
+    path: Assets/Scenes/E_BetaDemo.unity
+    guid: 6c56382f760fe4fb3a72b3537718c0ba
+  - enabled: 0
+    path: Assets/Scenes/E_BetaDemo.unity
+    guid: 6c56382f760fe4fb3a72b3537718c0ba
+  - enabled: 0
+    path: Assets/Scenes/Master25_2D.unity
+    guid: f32545327bb8a4cc0a35e6b9242a46d8
+  - enabled: 1
+    path: Assets/Scenes/Master25.unity
+    guid: bd97f3873983d4416a047cebfa90ccb5
+  - enabled: 0
+    path: Assets/Placenote/Examples/SaveAndLoadAMap/SaveAndLoadAMap.unity
+    guid: dd93a25ab3537451c981c88731e9a4ee
+  - enabled: 0
+    path: Assets/Placenote/Examples/ARKitHitTesting/ARKitHitTesting.unity
+    guid: 7bba42f2fe8e0452bac40db2e2494664
+  - enabled: 0
+    path: Assets/Scenes/Master25_Moderation.unity
+    guid: f64f8a9f7c03a45d5840216acd276fc1
+  - enabled: 0
+    path: Assets/Scenes/BL_Drop_Placing.unity
+    guid: 229b6d57cb3784373a81c9a3dfc1c279

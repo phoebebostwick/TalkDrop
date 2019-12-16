@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Master25_Moderation.unity
+  isLoaded: 1
+  isActive: 1
